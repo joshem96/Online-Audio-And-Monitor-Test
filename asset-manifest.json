@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Online-Audio-And-Monitor-Test/static/css/main.81e92223.chunk.css",
+    "main.css": "/Online-Audio-And-Monitor-Test/static/css/main.c0d14dad.chunk.css",
     "main.js": "/Online-Audio-And-Monitor-Test/static/js/main.8e85baec.chunk.js",
     "main.js.map": "/Online-Audio-And-Monitor-Test/static/js/main.8e85baec.chunk.js.map",
     "runtime-main.js": "/Online-Audio-And-Monitor-Test/static/js/runtime-main.44201da7.js",
@@ -24,7 +24,7 @@
     "static/js/10.66187e29.chunk.js": "/Online-Audio-And-Monitor-Test/static/js/10.66187e29.chunk.js",
     "static/js/10.66187e29.chunk.js.map": "/Online-Audio-And-Monitor-Test/static/js/10.66187e29.chunk.js.map",
     "index.html": "/Online-Audio-And-Monitor-Test/index.html",
-    "static/css/main.81e92223.chunk.css.map": "/Online-Audio-And-Monitor-Test/static/css/main.81e92223.chunk.css.map",
+    "static/css/main.c0d14dad.chunk.css.map": "/Online-Audio-And-Monitor-Test/static/css/main.c0d14dad.chunk.css.map",
     "static/js/2.c6bf03d0.chunk.js.LICENSE.txt": "/Online-Audio-And-Monitor-Test/static/js/2.c6bf03d0.chunk.js.LICENSE.txt",
     "static/js/3.edf1fa58.chunk.js.LICENSE.txt": "/Online-Audio-And-Monitor-Test/static/js/3.edf1fa58.chunk.js.LICENSE.txt",
     "static/media/High_Freq_Transparent.5f962947.png": "/Online-Audio-And-Monitor-Test/static/media/High_Freq_Transparent.5f962947.png",
@@ -55,7 +55,7 @@
   "entrypoints": [
     "static/js/runtime-main.44201da7.js",
     "static/js/2.c6bf03d0.chunk.js",
-    "static/css/main.81e92223.chunk.css",
+    "static/css/main.c0d14dad.chunk.css",
     "static/js/main.8e85baec.chunk.js"
   ]
 }
