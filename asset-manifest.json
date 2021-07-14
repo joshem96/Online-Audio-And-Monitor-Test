@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Online-Audio-And-Monitor-Test/static/css/main.a14ea2d4.chunk.css",
-    "main.js": "/Online-Audio-And-Monitor-Test/static/js/main.1b78ba39.chunk.js",
-    "main.js.map": "/Online-Audio-And-Monitor-Test/static/js/main.1b78ba39.chunk.js.map",
+    "main.js": "/Online-Audio-And-Monitor-Test/static/js/main.af2323e8.chunk.js",
+    "main.js.map": "/Online-Audio-And-Monitor-Test/static/js/main.af2323e8.chunk.js.map",
     "runtime-main.js": "/Online-Audio-And-Monitor-Test/static/js/runtime-main.895bcac8.js",
     "runtime-main.js.map": "/Online-Audio-And-Monitor-Test/static/js/runtime-main.895bcac8.js.map",
     "static/js/2.e1c81ab1.chunk.js": "/Online-Audio-And-Monitor-Test/static/js/2.e1c81ab1.chunk.js",
@@ -56,6 +56,6 @@
     "static/js/runtime-main.895bcac8.js",
     "static/js/2.e1c81ab1.chunk.js",
     "static/css/main.a14ea2d4.chunk.css",
-    "static/js/main.1b78ba39.chunk.js"
+    "static/js/main.af2323e8.chunk.js"
   ]
 }
