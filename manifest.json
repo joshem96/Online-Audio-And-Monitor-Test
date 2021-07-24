@@ -1,6 +1,6 @@
 {
-  "short_name": "AV Tester",
-  "name": "Online-Audio-And-Monitor-Test",
+  "short_name": "AMT",
+  "name": "audio-monitor-tool",
   "icons": [
     {
       "src": "favicon.ico",
