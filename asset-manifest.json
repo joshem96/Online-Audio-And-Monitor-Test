@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/audio-monitor-tool/static/css/main.6d0bc091.chunk.css",
+    "main.css": "/audio-monitor-tool/static/css/main.e161d3ff.chunk.css",
     "main.js": "/audio-monitor-tool/static/js/main.53c671e4.chunk.js",
     "main.js.map": "/audio-monitor-tool/static/js/main.53c671e4.chunk.js.map",
     "runtime-main.js": "/audio-monitor-tool/static/js/runtime-main.eb194475.js",
@@ -26,7 +26,7 @@
     "static/js/11.36baebe5.chunk.js": "/audio-monitor-tool/static/js/11.36baebe5.chunk.js",
     "static/js/11.36baebe5.chunk.js.map": "/audio-monitor-tool/static/js/11.36baebe5.chunk.js.map",
     "index.html": "/audio-monitor-tool/index.html",
-    "static/css/main.6d0bc091.chunk.css.map": "/audio-monitor-tool/static/css/main.6d0bc091.chunk.css.map",
+    "static/css/main.e161d3ff.chunk.css.map": "/audio-monitor-tool/static/css/main.e161d3ff.chunk.css.map",
     "static/js/2.30a0b276.chunk.js.LICENSE.txt": "/audio-monitor-tool/static/js/2.30a0b276.chunk.js.LICENSE.txt",
     "static/js/4.5dd6f378.chunk.js.LICENSE.txt": "/audio-monitor-tool/static/js/4.5dd6f378.chunk.js.LICENSE.txt",
     "static/media/High_Freq_Transparent.5f962947.png": "/audio-monitor-tool/static/media/High_Freq_Transparent.5f962947.png",
@@ -57,7 +57,7 @@
   "entrypoints": [
     "static/js/runtime-main.eb194475.js",
     "static/js/2.30a0b276.chunk.js",
-    "static/css/main.6d0bc091.chunk.css",
+    "static/css/main.e161d3ff.chunk.css",
     "static/js/main.53c671e4.chunk.js"
   ]
 }
